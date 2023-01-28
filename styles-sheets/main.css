@@ -1,0 +1,11 @@
+.top-container {
+    background-color: #ffc017;
+}
+
+*,  *:before, *:after{
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0px;
+}
